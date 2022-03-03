@@ -1,0 +1,14 @@
+_id: env_fd9fd340a8bc4a64ab25e1b77d31a5ff
+type: Environment
+parentId: env_5eb042ad87b50d32151aa59127f46f3129b48850
+modified: 1646338743798
+created: 1646338616729
+name: Production
+data:
+  host: https://lietsoft-stockmanager.herokuapp.com
+dataPropertyOrder:
+  "&":
+    - host
+color: "#ff0000"
+isPrivate: false
+metaSortKey: 1646338616729

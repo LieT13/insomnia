@@ -1,0 +1,6 @@
+_id: uts_5cc700af5f3c4e1ea32e23ce80b00398
+type: UnitTestSuite
+parentId: wrk_9a2d001dc8a14cf19e5e8b082c4dc3bc
+modified: 1646338804519
+created: 1646338804519
+name: StockManager
