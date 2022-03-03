@@ -1,0 +1,21 @@
+_id: req_ccefa0ea4c4a4fb4b19a3cad9053c2ab
+type: Request
+parentId: wrk_9a2d001dc8a14cf19e5e8b082c4dc3bc
+modified: 1646338483044
+created: 1646338386761
+url: "{{host}}/product/1000000003"
+name: Get product
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1646337824310
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
